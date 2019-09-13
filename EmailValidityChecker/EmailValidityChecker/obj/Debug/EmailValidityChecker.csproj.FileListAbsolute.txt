@@ -1,0 +1,7 @@
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\EmailValidityChecker\bin\Debug\EmailValidityChecker.exe.config
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\EmailValidityChecker\bin\Debug\EmailValidityChecker.exe
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\EmailValidityChecker\bin\Debug\EmailValidityChecker.pdb
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\EmailValidityChecker\obj\Debug\EmailValidityChecker.csprojAssemblyReference.cache
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\EmailValidityChecker\obj\Debug\EmailValidityChecker.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\EmailValidityChecker\obj\Debug\EmailValidityChecker.exe
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\EmailValidityChecker\obj\Debug\EmailValidityChecker.pdb

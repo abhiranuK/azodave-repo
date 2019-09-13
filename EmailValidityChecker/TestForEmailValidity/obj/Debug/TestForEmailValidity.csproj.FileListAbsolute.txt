@@ -1,0 +1,17 @@
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\TestForEmailValidity.dll
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\TestForEmailValidity.pdb
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\obj\Debug\TestForEmailValidity.csprojAssemblyReference.cache
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\obj\Debug\TestForEmailValidity.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\obj\Debug\TestForEmailValidity.csproj.CopyComplete
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\obj\Debug\TestForEmailValidity.dll
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\obj\Debug\TestForEmailValidity.pdb
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\EmailValidityChecker.exe
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\EmailValidityChecker.pdb
+C:\Users\abhishek.kumar\source\repos\EmailValidityChecker\TestForEmailValidity\bin\Debug\EmailValidityChecker.exe.config
